@@ -18,7 +18,7 @@ A simple Python script that calculates the sine of a given angle in degrees.
 
 - Python 3.x installed on your system
 
-### Installation
+### Usage
 
 1. Clone the repository:
    ```bash
@@ -31,15 +31,12 @@ A simple Python script that calculates the sine of a given angle in degrees.
    cd Sin-Value-Calculator-with-Python
    ```
 
-### Usage
+3. Run the script using:
 
-Run the script using:
+   ```bash
+   python sin_value_calculator.py
+   ```
 
-```bash
-python sin_value_calculator.py
-```
-
-You’ll be prompted to enter an angle in degrees. Once entered, the script will output the sine of that angle.
 
 ## Example
 
