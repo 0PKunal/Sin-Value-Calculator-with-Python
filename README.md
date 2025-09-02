@@ -82,12 +82,6 @@ The script:
 * Python 3.x (3.13.5 Recomended)
 * Standard library only (`math` module)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Optional Enhancements
 
 If you’d like to extend this project, consider adding:
@@ -96,6 +90,11 @@ If you’d like to extend this project, consider adding:
 * A graphical user interface (GUI) using Tkinter
 * Additional trigonometric functions (cos, tan, etc.)
 * Command-line arguments using `argparse` for automation
+  
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
 <div align="center">
   <p>Made with ❤️ by <a href="https://github.com/0PKunal">0PKunal</a></p>
